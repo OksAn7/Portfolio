@@ -1,4 +1,4 @@
-#Обзор
+# Обзор
 
 Данный репозиторий был создан для ознакомления с работами автора во время обучения на платформе **Skillfactory** по специальности **Data Analysis**. Все кейсы построены на первоначальном выполнении  последовательности действий на курсе с последующим самостоятельным завершением. Проект выполнен полностью самостоятельно на базе изученных ранее навыков. 
 
@@ -15,7 +15,7 @@
 - Psycopg2
 - PLotly
 
-#Review
+# Review
 
 This repository was created to review the author's work accomplished during training on the **Skillfactory** platform, specializing in **Data Analysis**. All cases are based on the initial implementation of the sequence of actions on the course with subsequent independent completion. The project was completed entirely independently based on previously learned skills.
 
