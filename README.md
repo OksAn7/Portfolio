@@ -5,6 +5,8 @@
 ## **Список работ**:  
 - Проект 2: Воронка продаж  
 - Кейс 9: Игровая аналитика
+- Кейс 11: А/Б тестирование
+- Кейс 12: Прогнозирование продаж
 
 ## **Используемые языки:**  
 - Python (Jupyter Notebook), PostgreSQL
@@ -22,6 +24,8 @@ This repository was created to review the author's work accomplished during trai
 ## **Case-study list**:  
 - Project 2: Sales funnel  
 - Case 9: Game Analysis
+- Case 11: A/B testing
+- Case 12: Sales forecast
 
 ## **Languages used:**  
 - Python (Jupyter Notebook), PostgreSQL
